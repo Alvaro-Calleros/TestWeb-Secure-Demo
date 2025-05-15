@@ -39,3 +39,25 @@ button:hover {
   background-color: rgb(201, 34, 34);
   transform: scale(1.05);
 }
+
+.resultado-scan {
+  margin: 1rem 0;
+  padding: 1rem;
+  background: #eee5d8;
+  border-radius: 4px;
+}
+
+.lista-resultados {
+  list-style-type: none;
+  padding: 0;
+  font-family: monospace;
+}
+
+.puerto-abierto {
+  color: #28a745;
+  font-weight: bold;
+}
+
+.puerto-filtrado {
+  color: #6c757d;
+}
